@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @PhamornOhm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning **PHP,SQL,Java **
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...phamornmontris@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @PhamornOhm
 
-<!---
-PhamornOhm/PhamornOhm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 👀 Interested in web development and building modern, responsive applications
+- 🌱 Currently learning PHP, SQL, Java, React, and Tailwind CSS
+- 💻 Skilled in HTML, CSS, JavaScript, and React for creating user-friendly interfaces
+- 💞️ Looking to collaborate on web development projects
+- 📫 How to reach me: phamornmontris@gmail.com
+- 😄 Pronouns: he/him (or use your preferred pronouns)
+- ⚡ Fun fact: I enjoy solving problems through coding and constantly learning new technologies
+
+---
+
+## 📚 My Main Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend:** PHP, SQL, Java  
+- **Tools:** Git, GitHub, VS Code
+
+
+
