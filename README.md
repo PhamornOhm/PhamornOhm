@@ -12,9 +12,17 @@
 ---
 
 ## 📚 My Main Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** PHP, SQL, Java  
-- **Tools:** Git, GitHub, VS Code
 
+- **Frontend:**  
+  HTML, CSS, JavaScript, React, Tailwind CSS, Flutter  
+
+- **Backend:**  
+  PHP, SQL, Java  
+
+- **Programming Languages:**  
+  Dart, Python *(พื้นฐาน)*  
+
+- **Tools:**  
+  Git, GitHub, VS Code
 
 
