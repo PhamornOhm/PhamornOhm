@@ -14,7 +14,7 @@
 ## 📚 My Main Skills
 
 - **Frontend:**  
-  HTML, CSS, JavaScript, React, Tailwind CSS, Flutter  
+  HTML, CSS, JavaScript, React, Tailwind CSS, Flutter,Angular  
 
 - **Backend:**  
   PHP, SQL, Java  
@@ -23,6 +23,6 @@
   Dart, Python *(พื้นฐาน)*  
 
 - **Tools:**  
-  Git, GitHub, VS Code
+  Git, GitHub, VS Code, Antigravity ,Cursor
 
 
