@@ -1,28 +1,43 @@
 # 👋 Hi, I’m @PhamornOhm
 
-## About Me
-- 👀 Interested in web development and building modern, responsive applications
-- 🌱 Currently learning PHP, SQL, Java, React, and Tailwind CSS
-- 💻 Skilled in HTML, CSS, JavaScript, and React for creating user-friendly interfaces
-- 💞️ Looking to collaborate on web development projects
-- 📫 How to reach me: phamornmontris@gmail.com
-- 😄 Pronouns: he/him (or use your preferred pronouns)
-- ⚡ Fun fact: I enjoy solving problems through coding and constantly learning new technologies
+## 🚀 About Me
+
+* 💻 Interested in Full-stack Web Development and AI-assisted applications
+* 🌱 Currently exploring Local LLMs, Automation Workflows, and modern web technologies
+* ⚙️ Enjoy building responsive web applications, REST APIs, and self-hosted tools
+* 🐧 Familiar with Linux environments and Docker-based development
+* 🤝 Open to collaborating on web development and automation projects
 
 ---
 
-## 📚 My Main Skills
+## 📚 Technical Skills
 
-- **Frontend:**  
-  HTML, CSS, JavaScript, React, Tailwind CSS, Flutter,Angular  
+### Frontend
 
-- **Backend:**  
-  PHP, SQL, Java  
+HTML, CSS, JavaScript, React, Tailwind CSS, Flutter, Angular
 
-- **Programming Languages:**  
-  Dart, Python *(พื้นฐาน)*  
+### Backend
 
-- **Tools:**  
-  Git, GitHub, VS Code, Antigravity ,Cursor
+PHP, Java, REST API
 
+### Database
 
+SQL, PostgreSQL, Supabase
+
+### Programming Languages
+
+JavaScript, Dart, Python (Basic)
+
+### Tools & Platforms
+
+Git, GitHub, Docker, VS Code, Cursor, Trae, Linux (Ubuntu)
+
+### AI & Automation
+
+Ollama, Local LLM, AI-assisted Development, n8n, Webhook
+
+---
+
+## 📫 Contact
+
+* Email: [phamornmontris@gmail.com](mailto:phamornmontris@gmail.com)
